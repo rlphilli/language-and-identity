@@ -14,16 +14,16 @@ span.rtl {
 }
 
 .page-title {
-    color: $red;
+    color: $green;
 }
 
 .footnotes ol {
-    list-style: $red;
+    list-style: $green;
 }
 
 a.footnote {
 
-    color: $red;
+    color: $green;
     font-size: 1.3em;
 }
 
@@ -91,7 +91,7 @@ modified css for post-grid images and text
   z-index: 1;
 
   &:hover h2.post-title{
-    color: lighten($red,10);
+    color: lighten($green,10);
     position: relative !important;
     z-index: 99 !important;
 

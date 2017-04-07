@@ -2,11 +2,8 @@
 layout: front
 permalink: /
 title: home
-image:
-    banner: images/banner-large.jpg
+image_banner: images/banner.jpg
 ---
-
-**We invite you to interact with our digital exhibit to learn more about why the zombie is the most important modern myth of our time.**
 
 <div class="tiles">
 
@@ -16,8 +13,6 @@ image:
 
 </div>
 
-The more the zombie gains notoriety as a cannibalistic anti-human across television, film, and print media, the greater its imprint as an enduring reflection of our human anxieties and fears. This born-digital exhibit offers a thoughtful analysis and creative exploration of zombie media from the perspectives of some of the genre's most avid connoisseurs. The exhibit is the collaborative effort of students in the Spring 2016 linguistics seminar, *Languages of Fear, Racism, and Zombies*, with instructor, Professor Jamie A. Thomas at Swarthmore College.
-
-In our examinations of race, gender, and power relations in the discourse of films including White Zombie, Night of the Living Dead, Pontypool, and Warm Bodies, we apply the method of Critical Discourse Analysis in multiple historical, visual, and semiotic constellations. We draw additional connections to the immortality and reanimation of the cells of Henrietta Lacks, and the early exile and objectification of persons deemed as Other, or Wild Men, within Western culture.
+How does language help us to map the movement of peoples over time and space? How are African languages defined and created? How is Africanness and Blackness encoded in the Spanish and English languages? This course in sociolinguistics invites a critical evaluation of intersections in language and identity in the African continent and the Diaspora. Focusing on eastern Africa and its connection with the Americas, we draw upon overlapping histories of local peoples, outsiders, missionaries, linguists, and others to understand the power of language in defining and creating experience. We will specifically trace the proto-Bantu origin of Swahili, and succeeding historical and contemporary movements of Swahili from Kenya to Mexico. Reflecting on our own lives, we also look to the formation of new communities and frontiers in language use including migration, language policy, social media, videogames.
 
 <hr/>
