@@ -8,12 +8,21 @@
         {% assign background = site.teaser %}
     {% endif %}
 
-    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser" style="background-image: url({{ site.url }}/images/{{ background }});">
+    {% if post.soundcloud_id %}
+
+    <iframe width="250px" height="150px" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;auto_play=false&amp;hide_related=false&amp;scrolling=false&amp;show_artwork=false&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;visual=false"></iframe>
+
+    {% endif %}
 
     {% if post.title %}
+
+    <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}" class="post-teaser">
+
     <h2 class="post-title" itemprop="name">{{ post.title }}</h2>
-    {% endif %}
+
     </a>
+
+    {% endif %}
 
 <!-- hide unneeded metadata -->
 

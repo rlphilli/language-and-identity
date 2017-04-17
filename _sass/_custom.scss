@@ -78,23 +78,35 @@ a.footnote {
 modified css for post-grid images and text
 */
 
-.tile a.post-teaser {
-
-  height: 300px;
+div.tiles {
+  display: flex;
   width: 100%;
-  max-width: 300px;
-  background-size: cover;
-  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-top: 1em;
+}
+
+article.tile {
+  display: block;
+  height: 250px;
+  width: 250px;
+  margin: unset;
+}
+
+article.tile a.post-teaser {
+
   text-decoration: none;
-  color: rgba($white,.75);
-  padding: 1em;
-  z-index: 1;
+  clear: both;
+  float: left;
+  width: 100%;
+
+  & h2 {
+    text-align: center;
+  }
 
   &:hover h2.post-title{
     color: lighten($green,10);
-    position: relative !important;
     z-index: 99 !important;
-
   }
 
   &:hover {
@@ -104,61 +116,14 @@ modified css for post-grid images and text
   }
 }
 
+article.tile iframe {
+  float: left;
+}
+
 .tile .author-name {
   font-size: 1em;
   color: lighten($text-color,25);
   min-height: 2.5em;
   text-align: center;
 }
-
-
-
-// .gallery {
-//     max-width:100%;
-//     max-height:100%;
-//     position: relative;
-//     padding: 0;
-//     margin: 0;
-//     text-align: center;
-//     padding-bottom: 100%;
-//   }
-
-// .gallery-image{
-//   cursor:pointer;
-//   position: relative;
-//   display: block;
-//   }
-
-// .gallery-text{
-//       overflow: hidden;
-//       position: absolute;
-//       top: 0; right: 0;
-//       bottom: 0; left: 0;
-//       max-width: 100%;
-//       max-height: 100%;
-//       text-align: center;
-//       background-color: rgba(255, 255, 255, 0.5);
-//       /*opacity: 0.09;*/
-//       -webkit-transition: opacity 0.6s;
-//       -moz-transition: opacity 0.6s;
-//       transition: opacity 0.6s;
-//       vertical-align:middle;
-//       line-height:300px;
-//   }
-
-// .gallery-text:hover{
-//       opacity: 5;
-//   }
-
-// .gallery-text h2{
-//        overflow: hidden;
-//        display: inline-table;
-//        vertical-align:top;
-//        line-height:100%;
-//        box-sizing: border-box;
-// }
-// .gallery-text h2 a{
-//   color: white;
-//   text-decoration: none;
-// }
 
