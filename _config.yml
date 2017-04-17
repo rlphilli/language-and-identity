@@ -71,7 +71,7 @@ prose:
         field:
           element: "hidden"
           value: ""
-      - name: "storymap_id"
+      - name: "soundcloud_id"
         field:
           element: "text"
           label: "Soundcloud ID"
