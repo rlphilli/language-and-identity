@@ -1,0 +1,26 @@
+---
+modified: '2017-05-03 12:40 -0400'
+author: group5
+layout: article
+published: false
+title: 'Episode 2: In Between Black and Latinx'
+---
+#### Summary
+In this episode, we share our reflections on the 21st Arturo A. Schomburg Symposium (themed 
+"Sports and Blackness: Inclusion?") hosted at Taller Puertorriqueño (2600 N. 5th Street) on February 25, 2017. At the symposium, we were able to interview attendees who spoke to their experiences as Latinx people, with heritage spanning the Dominican Republic and Venezuela.
+In the format of a live discussion, we present excerpts from our interviews and contextualized analysis from our course readings on AfroLatinx language and identity. Our discussion illustrates how experiences of race, color, and language in the U.S., sometimes lead Spanish-speaking Blacks to choose between their Blackness and Latinness in everyday encounters, as well as in their understandings of self. 
+
+#### Questions to Keep in Mind
+
+> What is afrolatinidad? Who are “threshold people”? How do we use an intersectional lens to make liminal experience visible?
+
+#### Further Context
+Anthropologist Laura A. Lewis examines the effects of historical displacement on the authority to claim “national space” (Lewis: 2012, p. 93) and how this sense of authority is withheld from Black Mexicans and further “erases them from the face of the [Mexican] nation” (Lewis: 2012, 90). The exclusion of Whiteness from moreno (brownness) “undermines the dominant national discourse of mestizaje (discourse of racial mixture)” (Lewis: 2012, 83). State-empowered investments in Whiteness further motivate the displacement of the moreno body from the historical narrative of Mexico. 
+
+Lewis centers her ethnography on the community of San Nicolás in Western Mexico. She includes within her study the ‘ship stories’ or origin narratives told within the Black San Nicolás community about their probable coming to Mexico via ships, but how these ships are described without a homeland--the afrodescendientes (African-descended peoples) just appeared in Mexico, without an explicit connection to the African continent. Lewis explains how these ‘ship stories’ reflect the distance that people identifying as mestizo (racially-mixed, not Black) put between themselves, their land, and Blackness: “‘Blacks,’ who arrived ‘with chains around their necks’ from faraway places, are foreigners in that space. By extension, ‘Blacks’ do not have prior claims to the village of San Nicolas” (Lewis: 2012, 93). Within the San Nicolás community, ownership of the land is deferred to the indigenous residents and is indicated in the language used to talk about heritage: “Criollo grounds moreno in place–the village of San Nicolás–while natural, recognizes that Indians ‘own’ Mexico, which encompasses the village. ‘The authentic Mexican is Indian,’ Margarita once told me” (Lewis: 2012, 83). The narratives of mestizaje (racial mixedness predicated on Spanish and Indigenous roots) invokes an image of complexity and pride that is not conferred to Black people in Mexico, or across Latin America, more broadly.
+
+Conceptions of identity within Mexican society are largely based upon one’s supposed bloodline, phenotypes, and language. Depending on the region of the world and local context, however, one’s identity may be perceived and assumed differently by others. Substantial differences can be observed through people holding dual identities in the United States and in Latin America. Stereotypes and expectations, which have been molded by history written by a dominant group, in many ways carve out future possibilities based on identity. Those whose identity does not fit a national ideal are forced to fight for social recognition and self-determination in an attempt to gain power over their own social mobility.
+    
+In her narratival piece “Latinegras: Desired Women–Undesirable, Mothers, Daughters, Sisters, and Wives”, [Cruz-Janzen] describes growing up in the U.S. as the daughter of Venezuelan parents. Throughout her childhood, she constantly dealt with her Blackness being perceived as outside of Latinx identity, as well as her Spanish-speaking heritage being perceived as not Black. According to others, and even members of her own family, she didn’t fully fit into any particular group. She writes that when she moved to the U.S., “concerned Latino friends advised me to emphasize my Latinness and to downplay my African traits to avoid being confused with African Americans” while “Some teachers advised that I might as well be Black because I would be treated like one by White Latinos and mainstream White Americans.” (Cruz-Janzen:2010, p. 285). 
+
+The way her friends phrased their ‘advice’ suggested to Cruz-Janzen that there was something wrong with being African American. At the same time, the teacher’s ‘advice’ suggested that Cruz-Janzen didn’t have much control over her identity, because her skin color would make it readily perceivable as Black and African American within the U.S. context. This is why Cruz-Janzen finds it important to situate herself as Latinegra. Laying claim to this identity for herself speaks to her dynamic, multiplicitous identity, and asserts agency over in how she perceives herself. ''
